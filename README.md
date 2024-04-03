@@ -67,6 +67,7 @@ endmodule
 
 
 **RTL Schematic**
+
 ![Screenshot 2024-04-04 010523](https://github.com/jayaseelan2006/FULL_ADDER_SUBTRACTOR/assets/151389443/4642d355-c57c-43fe-b3d4-8e4998768523)
 
 
