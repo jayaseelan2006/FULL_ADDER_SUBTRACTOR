@@ -1,4 +1,7 @@
 # FULL_ADDER_SUBTRACTOR
+# NAME:JAYASEELAN U
+# REG NO:212223220039
+
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
@@ -48,6 +51,7 @@ Borrow out = A'Bin + A'B + BBin
 Write the detailed procedure here
 
 **Program:**
+
 module full_addersub(a,b,c,sum,carry,D,Bo);
 
 input a,b,c;
